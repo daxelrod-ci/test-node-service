@@ -6,7 +6,7 @@
 ## Install
 
 ```sh
-$ npm install --save test-node-service
+$ npm install --save test-node-service # This will not actually work
 ```
 
 
